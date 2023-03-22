@@ -1,4 +1,4 @@
-# Create a savegame instance (terminalprog)
+# Create a filesystem instance (terminalprompt)
 
 GitHub_Release.exe is a standalone executable to test the code.
 
@@ -62,5 +62,4 @@ NOTICE: Those files are written OS-dependent. A Windows operating system is requ
 
 
 
-good luck,
-drcodey.
+good luck
